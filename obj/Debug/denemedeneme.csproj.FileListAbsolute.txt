@@ -1,0 +1,10 @@
+C:\Users\Windows10\source\repos\denemedeneme\denemedeneme\bin\Debug\denemedeneme.exe.config
+C:\Users\Windows10\source\repos\denemedeneme\denemedeneme\bin\Debug\denemedeneme.exe
+C:\Users\Windows10\source\repos\denemedeneme\denemedeneme\bin\Debug\denemedeneme.pdb
+C:\Users\Windows10\source\repos\denemedeneme\denemedeneme\obj\Debug\denemedeneme.csprojAssemblyReference.cache
+C:\Users\Windows10\source\repos\denemedeneme\denemedeneme\obj\Debug\denemedeneme.Form1.resources
+C:\Users\Windows10\source\repos\denemedeneme\denemedeneme\obj\Debug\denemedeneme.Properties.Resources.resources
+C:\Users\Windows10\source\repos\denemedeneme\denemedeneme\obj\Debug\denemedeneme.csproj.GenerateResource.cache
+C:\Users\Windows10\source\repos\denemedeneme\denemedeneme\obj\Debug\denemedeneme.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\source\repos\denemedeneme\denemedeneme\obj\Debug\denemedeneme.exe
+C:\Users\Windows10\source\repos\denemedeneme\denemedeneme\obj\Debug\denemedeneme.pdb
